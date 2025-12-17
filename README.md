@@ -1,7 +1,7 @@
 # GradientBoostAI
 
-- 🇷🇺 [Русская версия](README.ru.md)
-- 🇬🇧 [English version](README.en.md)
+- RU [Русская версия](README.ru.md)
+- EN [English version](README.en.md)
 
 Ниже краткое двуязычное резюме. Полные описания — по ссылкам выше.
 
